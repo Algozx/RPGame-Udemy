@@ -130,6 +130,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 140738390757987041, guid: 16ae1035fc26d5f46b36babd4338ca27, type: 3}
+      propertyPath: persistentObjectPrefab
+      value: 
+      objectReference: {fileID: 6081172568465827507, guid: b52aed1766ee8a3459474945351c2804, type: 3}
+    - target: {fileID: 140738390757987041, guid: 16ae1035fc26d5f46b36babd4338ca27, type: 3}
+      propertyPath: persistentObjectPrefabSaving
+      value: 
+      objectReference: {fileID: 6587969495532652536, guid: 360c534c1e8da0847ab0bbc5683d12be, type: 3}
     - target: {fileID: 3240778551690617615, guid: 16ae1035fc26d5f46b36babd4338ca27, type: 3}
       propertyPath: m_LocalPosition.x
       value: 92.17954

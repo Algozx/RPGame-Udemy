@@ -44,6 +44,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a6d4fbb14714c142ba75b2e121fb0de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &3388869204990010954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8713572133697361527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea9374b509b70f4bba37e4a2ca8cf00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uniqueIdentifier: 
 --- !u!1001 &1363949681843712678
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -116,6 +129,10 @@ PrefabInstance:
       propertyPath: m_Speed
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 903940646, guid: bd9b8931106abfc4083a741ec3e1112c, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: e4f88d06e5847ef4f893d66f1315f667, type: 2}
     - target: {fileID: 992839947464870347, guid: bd9b8931106abfc4083a741ec3e1112c, type: 3}
       propertyPath: health
       value: 20
