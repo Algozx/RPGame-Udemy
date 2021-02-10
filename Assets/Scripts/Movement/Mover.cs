@@ -33,6 +33,10 @@ namespace RPG.Movement
             GetComponent<ActionScheduler>().StartAction(this);
         }
 
+        public void CameraRotation(){
+            
+        }
+
 
         public void MoveTo(Vector3 destination, float speedFraction)
         {

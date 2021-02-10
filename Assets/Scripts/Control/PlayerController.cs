@@ -16,6 +16,7 @@ namespace RPG.Control
         {
             fighter = GetComponent<Fighter>();
             health = GetComponent<Health>();
+
         }
 
         private void Update()
